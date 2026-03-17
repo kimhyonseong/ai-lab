@@ -1,12 +1,3 @@
----
-name: pr 템플릿
-about: 히스토리
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## 🔗 관련 이슈
 - #
 
